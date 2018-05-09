@@ -27,7 +27,7 @@ using NUnit.Framework.Internal;
 
 namespace NUnit.Framework
 {
-    public partial class Assert
+    partial class Assert
     {
         #region Throws
         /// <summary>
